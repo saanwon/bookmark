@@ -12,4 +12,5 @@
 
 ## Robotics
 [Alessandro De Luca](http://www.diag.uniroma1.it/~deluca/index.php)  
-[로봇공학교재](http://t-robotics.blogspot.kr/2015/01/pdf-15.html#.WwZJtiDlKUk)
+[로봇공학교재](http://t-robotics.blogspot.kr/2015/01/pdf-15.html#.WwZJtiDlKUk)  
+[Northwestern Robotics](https://www.youtube.com/channel/UCiK0J5wtnyX2jP-AiGbdhjg)
